@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/saichaithanyasaraf/Documents/NetBeansProjects/IntranetApp/src/java/com/intranet/service/MailDAOImpl.java</file>
+            <file>file:/C:/Users/saichaithanyasaraf/Documents/NetBeansProjects/IntranetApp/src/java/com/intranet/model/User.java</file>
+            <file>file:/C:/Users/saichaithanyasaraf/Documents/NetBeansProjects/IntranetApp/src/java/com/intranet/service/MailBoxDAOImpl.java</file>
+            <file>file:/C:/Users/saichaithanyasaraf/Documents/NetBeansProjects/IntranetApp/src/java/com/intranet/db/DataSource.java</file>
+            <file>file:/C:/Users/saichaithanyasaraf/Documents/NetBeansProjects/IntranetApp/src/java/com/intranet/model/Mail.java</file>
+            <file>file:/C:/Users/saichaithanyasaraf/Documents/NetBeansProjects/IntranetApp/web/readmails.jsp</file>
+            <file>file:/C:/Users/saichaithanyasaraf/Documents/NetBeansProjects/IntranetApp/src/java/com/intranet/controller/UserController.java</file>
+            <file>file:/C:/Users/saichaithanyasaraf/Documents/NetBeansProjects/IntranetApp/src/java/com/intranet/DAO/MailDAO.java</file>
+            <file>file:/C:/Users/saichaithanyasaraf/Documents/NetBeansProjects/IntranetApp/src/java/com/intranet/controller/MailController.java</file>
+            <file>file:/C:/Users/saichaithanyasaraf/Documents/NetBeansProjects/IntranetApp/web/Welcome.jsp</file>
+            <file>file:/C:/Users/saichaithanyasaraf/Documents/NetBeansProjects/IntranetApp/src/java/com/intranet/DAO/MailBoxDAO.java</file>
+            <file>file:/C:/Users/saichaithanyasaraf/Documents/NetBeansProjects/IntranetApp/web/Compose.jsp</file>
+        </group>
+    </open-files>
+</project-private>
